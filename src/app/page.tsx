@@ -23,7 +23,7 @@ export default function Home() {
         </div>
         <div className="text-4xl">
           <p>
-            This is <span className="font-bold underline">Ryan</span> speaking. Who’s this?
+            This is <span className="font-bold underline">Ryan</span> speaking. Who&apos;s this?
           </p>
         </div>
       </div>

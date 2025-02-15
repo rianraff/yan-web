@@ -13,7 +13,7 @@ export default function Header() {
                     <a>Contact</a>
                 </div>
                 <div className="ml-auto text-sm mx-4">
-                    <button className="border border-stone-900 px-4 py-1">Let's Connect</button>
+                    <button className="border border-stone-900 px-4 py-1">Let&apos;s Connect</button>
                 </div>
             </div>
         </nav>
